@@ -1,0 +1,8 @@
+name: KDsignsFN
+version: 1.0
+author: TYSluukie
+main: me.lucas.kdsigns.Main
+
+permissions:
+  KDsigns.place:
+    description: high class
